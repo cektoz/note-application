@@ -22,6 +22,7 @@ const Note = sequelize.define('Note', {
   },
   created_at: {
     type: DataTypes.DATE,
+    defaultValue: Sequelize.literal('CURRENT_TIMESTAMP')
   }
 });
 

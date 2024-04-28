@@ -37,11 +37,22 @@ cd note-application
 npm install
 ```
 
+In .env file user needs to enter their credentials in order to generate table notes
+
 in the terminal run the server.js with nodemon
+
+For Mac
 
 ```
 nodemon backend/server.js 
 ```
+
+For Windows 
+
+```
+npx nodemon backend/server.js
+```
+
 http://localhost:4000
 
 open a new terminal and start the app
