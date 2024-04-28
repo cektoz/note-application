@@ -4,7 +4,7 @@ import cors from "cors";
 import dotenv from 'dotenv'
 import { Sequelize, DataTypes } from 'sequelize';
 
-//establish database connection
+//establish database connection using sequelize
 
 dotenv.config()
 
