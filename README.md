@@ -14,17 +14,17 @@ This is a simple note-taking application built using React for the frontend and 
 
 ## Features
 
-**Create Note:** Users can create a new note by providing a title and content.
-**View Notes:** Users can view a list of all notes with their titles, content, and creation dates.
-**Update Note:** Users can edit the title and content of an existing note.
-**Delete Note:** Users can delete a note they no longer need.
+**Create Note:** Users can create a new note by providing a title and content.  <br />
+**View Notes:** Users can view a list of all notes with their titles, content, and creation dates. <br />
+**Update Note:** Users can edit the title and content of an existing note. <br />
+**Delete Note:** Users can delete a note they no longer need. <br />
 
 ## Technologies Used
 
-**Frontend:** React, React Router DOM, Material-UI
-**Backend:** Node.js, Express, Sequelize (ORM for PostgreSQL)
-**Database:** PostgreSQL
-**HTTP Requests:** Axios
+**Frontend:** React, React Router DOM, Material-UI  <br />
+**Backend:** Node.js, Express, Sequelize (ORM for PostgreSQL)  <br />
+**Database:** PostgreSQL  <br />
+**HTTP Requests:** Axios  <br />
 
 ### Running the program
 
